@@ -1,5 +1,5 @@
 # Runtime dependencies (pinned; tested together on Python 3.12/3.13)
-langchain==1.4.6
+langchain==1.4.6 
 langchain-core==1.6.12
 langchain-google-genai==4.4.2
 langchain-openai==1.7.2
